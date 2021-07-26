@@ -2,7 +2,7 @@
 
 This is a Jekyll website template designed for Pre Fellowship Fellows. This will be your first project for your pre-fellowship. You will first build this portfolio website with your peers then use it as a template for yourself.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a8dce37-f16e-426c-b3f2-f9fa9faf0fb4/deploy-status)](https://app.netlify.com/sites/practically-pi-portfolio-template/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3a8dce37-f16e-426c-b3f2-f9fa9faf0fb4/deploy-status)](https://sharp-boyd-5de1a3.netlify.app/)
 
 ## Features
 
